@@ -1,7 +1,7 @@
+---
+title: Logseq
+---
 
----
-title: LogSeq
-tags:
----
-## [[Jul 24th, 2020]] = the first time i use [[Logseq]]
+##
+## [[Jul 24th, 2020]]
 ## How i can change the name of page?
