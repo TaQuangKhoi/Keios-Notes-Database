@@ -1,0 +1,5 @@
+---
+title: bi-directional link
+---
+
+## 
