@@ -1,6 +1,5 @@
 ---
 title: Obsidian
-tags:
+tags: [[bi-directional link]] 
 ---
-
 ## 
