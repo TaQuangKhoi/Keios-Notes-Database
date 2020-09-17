@@ -2,7 +2,7 @@
 title: Remnote
 ---
 
-## #[[bi-directional link]]
+## [[tags]]:: #[[bi-directional link]]
 ## Everything is rems
 ## portals, bullets, documents, folder is rems..
 ## Text rems
