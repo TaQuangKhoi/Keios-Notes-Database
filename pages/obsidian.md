@@ -1,4 +1,4 @@
 ---
 title: Obsidian
 ---
-## #[[bi-directional link]]
+## [[tags]]:: #[[bi-directional link]]
