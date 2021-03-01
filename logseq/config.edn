@@ -10,7 +10,7 @@
  ;; Git settings
  :git-pull-secs 60
  :git-push-secs 10
- :git-auto-push false
+ :git-auto-push true
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -69,4 +69,5 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}}
+ :macros {}
+ :feature/enable-encryption? true}
