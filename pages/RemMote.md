@@ -1,5 +1,5 @@
 ---
-title: Remnote
+title: RemMote
 ---
 
 ## [[tags]]:: #[[bi-directional link]], #[[spaced repetition]]
